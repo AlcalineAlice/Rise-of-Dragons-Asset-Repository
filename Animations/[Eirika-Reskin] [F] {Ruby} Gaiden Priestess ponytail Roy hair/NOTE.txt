@@ -1,0 +1,1 @@
+IMPORTANT: Binding Blade animation has different Palette order. Needs fixing
